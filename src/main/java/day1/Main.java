@@ -7,8 +7,6 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class Main {
-
-
 	public static void main(String[] args) {
 		ListArray array = new ListArray();
 		int[] arr = array.initiliazeArray();
