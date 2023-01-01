@@ -1,8 +1,10 @@
-package day1;
+package day1.Main;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+
+import day1.Array.ListArray;
 
 public class Main {
 	public static void main(String[] args) {
