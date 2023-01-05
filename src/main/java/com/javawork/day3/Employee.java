@@ -1,4 +1,4 @@
-package Day3;
+package com.javawork.day3;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

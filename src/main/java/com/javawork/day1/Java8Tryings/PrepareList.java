@@ -1,4 +1,4 @@
-package day1.Java8Tryings;
+package com.javawork.day1.Java8Tryings;
 
 import java.util.ArrayList;
 import java.util.List;

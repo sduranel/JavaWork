@@ -1,4 +1,4 @@
-package day1.Array;
+package com.javawork.day1.Array;
 
 public class ListArray {
 	public int[] initiliazeArray() {

@@ -1,4 +1,4 @@
-package Day3;
+package com.javawork.day3;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package day1.CalculateThings;
+package com.javawork.day1.CalculateThings;
 
 public class Calculate{
 	public int add (int a, int b) {

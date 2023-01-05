@@ -1,4 +1,4 @@
-package day1.CalculateThings;
+package com.javawork.day1.CalculateThings;
 
 public class Calculate2 implements Calculator {
 

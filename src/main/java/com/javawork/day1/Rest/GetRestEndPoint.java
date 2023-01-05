@@ -1,4 +1,4 @@
-package day1.Rest;
+package com.javawork.day1.Rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
